@@ -12,8 +12,7 @@ This small Python script demonstrates basic list operations as part of an assign
 7. Found and printed the index of the value `30`.
 
 ## 📌 Code and Output
-![Code and output](assests/Code%20and%20output.JPG)
-
+![Code and output](Assests/Code%20and%20output.JPG)
 
 
 ## 📁 How to Run
